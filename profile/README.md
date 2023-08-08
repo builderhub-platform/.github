@@ -185,4 +185,4 @@
 - 이력서 혹은 깃헙 링크를 보내주시면 이에 맞추어 이야기할 구성원을 매칭시켜드립니다.
 - 이력서 링크, 포트폴리오 링크를 남겨주시면 좀 더 자세한 상담이 가능합니다.
 
-[coffee-chat](images/coffee-chat.png)
+![coffee-chat](images/coffee-chat.png)
